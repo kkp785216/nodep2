@@ -1,0 +1,1 @@
+The name of clint is "Akash", age - "20", gender - "male", address - "amaon" and more info abuot him/her - "i am a good boy"
